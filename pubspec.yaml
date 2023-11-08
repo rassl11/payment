@@ -16,6 +16,7 @@ dependencies:
   shelf_cors_headers: ^0.1.5
 
 dev_dependencies:
+  webdev: ^3.0.7+1
   http: ^0.13.0
   lints: ^2.0.0
   test: ^1.21.0
